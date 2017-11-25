@@ -1,0 +1,86 @@
+.index{
+  width: 100%;
+  background: url("../img/geometry2.png") center center;
+}
+.index .header{
+  width: 100%;
+  height: 70px;
+  line-height: 70px;
+  text-align: center;
+  font-size: 40px;
+  color: #2aabd2;
+}
+.index .header .swing{
+  font-size: 20px;
+  color: #2aabd2;
+  text-decoration: none;
+  position: absolute;
+  left: 1292px;
+  top: 20px;
+}
+.index .header .sign-in{
+  font-size: 20px;
+  color: #2aabd2;
+  text-decoration: none;
+  position: absolute;
+  left: 1250px;
+  top: 20px;
+}
+.index .header .sign-up{
+  font-size: 20px;
+  color: #2aabd2;
+  text-decoration: none;
+  position: absolute;
+  left: 1300px;
+  top: 20px;
+}
+.index .section{
+  margin-top: 50px;
+  margin-bottom: 60px;
+}
+.pagination{
+  padding-left: 300px;
+}
+.index li{
+  line-height: 62px;
+  font-size: 20px;
+  list-style:none;
+  height: 62px;
+  color: #2aabd2;
+  font-weight: bold;
+  text-align: center;
+  border-bottom: solid 1px #e1e1e1;
+  padding-left: 11px;
+}
+.index .na{
+  padding-top: 15px;
+  padding-bottom: 15px;
+  width: 290px;
+}
+.index a{
+  text-decoration: none;
+}
+.index .col-md-9 .title{
+  font-size:25px;
+  color: #333333;
+  height: 80px;
+  line-height: 80px;
+  position: relative;
+}
+.index .col-md-9 .add{
+  position: absolute;
+  left: 650px;
+  top: 30px;
+}
+.index .col-md-9 .see{
+  position: absolute;
+  left: 80px;
+  top: 30px;
+}
+.index .footer{
+  width: 100%;
+  height: 40px;
+  line-height: 40px;
+  text-align: center;
+  font-size: 16px;
+}
